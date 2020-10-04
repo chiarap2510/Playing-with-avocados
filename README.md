@@ -3,9 +3,9 @@ Avocados are a well known and much appreciated food, especially among millennial
 
 The code behind my results is divided in two Jupyter Notebooks:
 
-– Playing with avocados, part 1- Exploratory Data Analysis
+– Playing with avocados, part 1- Exploratory Data Analysis 
 
-– Playing with avocados, part 2 – Mapping the change in average price
+– Playing with avocados, part 2 – Mapping the change in average price (access here the version with interactive plots: https://nbviewer.jupyter.org/github/chiarap2510/Playing-with-avocados/blob/main/Part%202%20Avocado%20Map.ipynb)
 
 Before, going any further it is worth it to spend a few words on the content of the dataset. The dataset displays data from beginning 2015 until March 2018 on avocado prices and sales volume in several U.S. cities/areas. It was put together using data available on the website of the Hass Avocado Board, meaning it provides information concerning Hass avocados only. The dataset includes data on sales from different channels and the average price reported refers to a per unit cost (i.e. it is the price of a single avocado).
 
