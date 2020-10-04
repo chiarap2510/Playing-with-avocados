@@ -1,4 +1,4 @@
-# Playing-with-avocados
+# Playing with avocados
 Avocados are a well known and much appreciated food, especially among millennials. A couple of years ago, a dataset appeared on Kaggle with a very specific challenge: to find the city in the U.S. where millennials could pay the least for their beloved avocados. So they could finally afford an apartment too, at least according to the author of the dataset. While such an analysis would also require some data about the U.S. housing market, it will still be fun to discover what secrets this famous “Avocado dataset” contains.
 
 The code behind my results is divided in two Jupyter Notebooks:
